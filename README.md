@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my repository.
-<br>Author - Aavez shaikh
+<br>Author - Aavez (apna college)
